@@ -1,0 +1,28 @@
+[legacy/profiles:]
+default='b67a6188-c856-4d3d-9bce-f2d6abe50d17'
+list=['b1dcc9dd-5262-4d8d-a863-c897e6d979b9', 'b67a6188-c856-4d3d-9bce-f2d6abe50d17']
+
+[legacy/profiles:/:b67a6188-c856-4d3d-9bce-f2d6abe50d17]
+allow-bold=true
+background-color='#1D1D1E1E2020'
+bold-color='#F0F0F0F0F0F0'
+bold-color-same-as-fg=true
+cursor-background-color='#F0F0F0F0F0F0'
+cursor-colors-set=true
+cursor-foreground-color='#1D1D1E1E2020'
+default-size-columns=100
+default-size-rows=34
+font='Hack Nerd Font 11'
+foreground-color='#F0F0F0F0F0F0'
+login-shell=true
+palette=['#1F1F1F1F2020', '#FBFB05055A5A', '#2626FFFFD4D4', '#FDFDAAAA5A5A', '#5C5C9F9FFFFF', '#FCFC5959A6A6', '#2626FFFFD4D4', '#F0F0F0F0F0F0', '#5C5C63637070', '#FBFB05055A5A', '#2626FFFFD4D4', '#FEFEBEBE7E7E', '#5555ADADFFFF', '#FDFD9595D0D0', '#2626FFFFD4D4', '#F0F0F0F0F0F0']
+scroll-on-keystroke=true
+scroll-on-output=false
+scrollback-lines=10000
+scrollback-unlimited=false
+scrollbar-policy='always'
+use-system-font=false
+use-theme-background=false
+use-theme-colors=false
+use-theme-transparency=false
+visible-name='Panda'
